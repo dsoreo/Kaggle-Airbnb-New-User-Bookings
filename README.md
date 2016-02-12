@@ -1,6 +1,6 @@
 # Kaggle-Airbnb-New-User-Bookings
 
-## 131st place solution - https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
+## 128th place solution - https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
 To run the model run config.R. This file executes the code as follows
 
 1.	Calls format_sessions.R. This file
