@@ -17,8 +17,5 @@ To run the model run config.R. This file executes the code as follows
     a.	This file creates an average of probabilities returned by 30 models above. This file writes submission_file.csv that can be used for submission on Kaggle.
 
 ##Required Libraries
-xgboost
-sqldf
-caret
-readr
+xgboost, sqldf, caret, readr
 
